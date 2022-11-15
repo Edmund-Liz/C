@@ -5,6 +5,7 @@
 int main()
 {
 	int x,y;
+	puts(”开始测试“);
 	puts("请输入两个整数：");
 	printf("第一个整数：");
 	scanf("%d",&x);
